@@ -1,2 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/z6dJmnng)
-phpmyadminDatabaseScript je skripta za kreiranje i popunjavanje baze u okviru phpmyadmin-a koja je koriscena za projekat
+This project is a simple Java application with connectivity to an XAMPP database. While the overall application logic is straightforward, the key component is the JDBCUtils class. This class contains the essential SQL queries used to filter, add, and delete data from the database, demonstrating how to interact with the database effectively.
